@@ -16,7 +16,7 @@ The following algorithms were applied and evaluated:
 2. **Random Forest Classifier**
 3. **Gaussian Naive Bayes (NB)**
 4. **K-Nearest Neighbors (KNN)**
-5. **Support Vector Classifier (SVC)**
+5. **Logistic Regression**
 
 ## Dataset
 
